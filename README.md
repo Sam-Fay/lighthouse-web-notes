@@ -1,6 +1,3 @@
-# [Sam Fay]'s Notes
-# This is an H1 header (largest)
-###### This is an H6 header (smallest)
 
 # [Sam Fay]'s Notes
 # This is an H1 header (largest)
@@ -8,4 +5,4 @@
 
 ## Summary 
 
-This repository contains all of the notes taken by [SAM FAY] for the Lighthouse Labs Web Development Bootcamp.
+This repository contains all of the notes taken by [SAM FAY] for the Lighthouse Labs Web Development Bootcamp 2021.

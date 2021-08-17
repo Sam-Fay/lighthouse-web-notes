@@ -1,6 +1,3 @@
-# [Sam Fay]'s Notes
-# This is an H1 header (largest)
-###### This is an H6 header (smallest)
 
 # [Sam Fay]'s Notes
 # This is an H1 header (largest)

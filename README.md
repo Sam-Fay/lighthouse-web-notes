@@ -6,4 +6,8 @@
 ## Summary 
 
 This repository contains all of the notes taken by [SAM FAY] for the Lighthouse Labs Web Development Bootcamp 2021.
-This repository contains all of the notes taken by [SAM FAY] for the Lighthouse Labs Web Development Bootcamp.
+
+Table of Contents
+
+* [Week 1](/Week_1)
+  * [Day 1](/Week_1/Day_1)
